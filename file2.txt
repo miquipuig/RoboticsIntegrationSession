@@ -1,2 +1,2 @@
 Add file2
-edit file 2 user2
+edit file2 both user
